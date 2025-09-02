@@ -159,7 +159,7 @@ time_for = toc
 %% Functions
 
 
-function[arg1]
+function[arg1] = some sort of line
 
 
 
